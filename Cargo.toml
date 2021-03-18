@@ -3,4 +3,5 @@ members = [
     'wiser',
     'inverst-list',
     'db-manager',
+    'xml-parse',
 ]

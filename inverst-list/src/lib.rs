@@ -1,5 +1,7 @@
 #![allow(dead_code)]
 
+pub mod ngrame;
+
 /// 管理的所有单词的倒排列表
 pub struct PostingsLists {
     head: Vec<PostingList>,
